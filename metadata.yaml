@@ -1,0 +1,34 @@
+_repo: Pas--ek-Ali--Pov-st-z-v-chodu_29592
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Omelka, František
+    aliases:
+    - Omelka, F.
+    - Omelka, Frantisek
+    birthdate: 1904
+    deathdate: 1960
+    gutenberg_agent_id: '31795'
+    url: http://www.gutenberg.org/2009/agents/31795
+    wikipedia: http://eo.wikipedia.org/wiki/Franti%C5%A1ek_Omelka
+description: ''
+gutenberg_issued: '2009-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29592'
+language: cs
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcc 'PG'
+- !lcsh 'Uncles -- Fiction'
+- !lcsh 'Kings and rulers -- Fiction'
+- !lcsh 'Courts and courtiers -- Fiction'
+- !lcc 'PZ'
+- !lcsh 'Orphans -- Fiction'
+title: 'Pasáček Ali: Pověst z východu'
+url: http://www.gutenberg.org/ebooks/29592
